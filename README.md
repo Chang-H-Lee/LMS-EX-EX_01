@@ -1,9 +1,9 @@
 # LMS-Ex_01 프로젝트 과제 제출
 
 ##### 3개 파일 제출
- - [과제제출]E01_01.ipynb : load_digits : 손글씨를 분류
- - [과제제출]E01_02.ipynb : load_wine : 와인을 분류
- - [과제제출]E01_03.ipynb : load_breast_cancer : 유방암 여부를 진단
+ - [E-01]classification_01.ipynb : load_digits : 손글씨를 분류
+ - [E-01]classification_02.ipynb : load_wine : 와인을 분류
+ - [E-01]classification_03.ipynb : load_breast_cancer : 유방암 여부를 진단
 
 ## 회고
  - 사이킷런의 API모듈이 구조화가 많이 되어있어 학습과정은 단순하게 접근가능하여 편리
